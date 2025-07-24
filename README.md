@@ -1,4 +1,4 @@
-
+ 
 <h1 align="center"> APOLLO24X7 Clone</h1>
 <h2>Apollo 24x7 is a digital healtcare platform, which provides online doctors consultation, online pharmacy and diagnostic tests at home.  </h2>  
 
